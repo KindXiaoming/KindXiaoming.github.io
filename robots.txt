@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kindxiaoming.github.io/sitemap.xml
