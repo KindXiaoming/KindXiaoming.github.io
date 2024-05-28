@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kindxiaoming.github.io/sitemap.xml
+Sitemap: https://KindXiaoming.github.io/sitemap.xml
