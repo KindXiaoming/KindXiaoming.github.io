@@ -8,7 +8,7 @@ nav_order: 3
 display_categories:
 horizontal: false
 ---
-
+* [2024] Scientific American: [An Alternative to Conventional Neural Networks Could Help Reveal What AI Is Doing behind the Scenes](https://www.scientificamerican.com/article/an-alternative-to-conventional-neural-networks-could-help-reveal-what-ai-is/)
 * [2024] Marktechpost: [Kolmogorov-Arnold Networks (KANs): A New Era of Interpretability and Accuracy in Deep Learning](https://www.marktechpost.com/2024/05/02/kolmogorov-arnold-networks-kans-a-new-era-of-interpretability-and-accuracy-in-deep-learning/)
 * [2024] Quanta Magazine: [How Do Machines ‘Grok’ Data?](https://www.quantamagazine.org/how-do-machines-grok-data-20240412)
 * [2023] Quanta Magazine: [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919)
