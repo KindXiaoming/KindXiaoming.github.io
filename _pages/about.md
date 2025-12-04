@@ -18,7 +18,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hi! I'm Ziming Liu (刘子鸣). I will join the [College of AI](https://collegeai.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) as a tenure-track Assistant Professor, starting 2026 Fall.  
+Hi! I'm Ziming Liu (刘子鸣). I will join the [College of AI](https://collegeai.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) as a tenure-track Assistant Professor, starting 2026 Fall (tentative).
 
 I am currently a postdoc at Stanford & Enigma, working with Prof. Andreas Tolias. <!--[Get my CV here](/assets/pdf/Ziming_resume.pdf).--> I obtained my PhD from Massachusetts Institute of Technology, advised by Prof. Max Tegmark. Before that, I obtained my B.S. from Peking University. My research interests lie in the intersection of AI and Science:
 
