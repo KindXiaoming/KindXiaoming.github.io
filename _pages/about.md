@@ -18,13 +18,15 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hi! I'm Ziming, currently a postdoc at Stanford & Enigma, working with Prof. Andreas Tolias. <!--[Get my CV here](/assets/pdf/Ziming_resume.pdf).--> I obtained my PhD from Massachusetts Institute of Technology, advised by Prof. Max Tegmark. Before that, I obtained my B.S. from Peking University. My research interests lie in the intersection of AI and Science:
+Hi! I'm Ziming Liu (刘子鸣). I will join the [College of AI](https://collegeai.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) as a tenure-track Assistant Professor, starting 2026 Fall.  
+
+I am currently a postdoc at Stanford & Enigma, working with Prof. Andreas Tolias. <!--[Get my CV here](/assets/pdf/Ziming_resume.pdf).--> I obtained my PhD from Massachusetts Institute of Technology, advised by Prof. Max Tegmark. Before that, I obtained my B.S. from Peking University. My research interests lie in the intersection of AI and Science:
 
 * Science of AI: Understanding AI using science. I'm interested in understanding intriguing network phenomena (e.g., grokking, neural scaling laws). 
 * Science for AI: Advancing AI using science. When the scaling of the current paradigm plateaus, it is time to focus back on fundamental science (for AI).
 * AI for Science: Advancing science using AI. I'm excited about inventing accurate/interpretable AI4Science models and curiosity-driven AI scientists.
 
-I am grateful to the Quanta magazine (among other media outlets) which has covered all three branches of my research. Consider reading if you want to get some taste:
+Consider reading these Quanta articles if you want to get some taste:
 
 * Science of AI (Grokking): [How Do Machines ‘Grok’ Data?](https://www.quantamagazine.org/how-do-machines-grok-data-20240412/)
 * Science for AI (Poisson Flow): [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
@@ -32,7 +34,7 @@ I am grateful to the Quanta magazine (among other media outlets) which has cover
 
 My research philosophy is best described by John Hopfield's inspiring words in his Nobel lecture:
 
-> **[About physics]** Physics is not defined by subject matter, but is a point of view that the world around us (with effort, ingenuity and adequete resources) is understandable in a predictive and reasonably quantitative fashion. 
+> **[About physics (of AI)]** Physics is not defined by subject matter, but is a point of view that the world around us (with effort, ingenuity and adequete resources) is understandable in a predictive and reasonably quantitative fashion. 
 
 > **[About choosing problems]** I am now looking for a big problem whose resolution and understanding will be of significance far beyond its normal disciplinary boundaries and will reorganize the fields from which they came.
 
