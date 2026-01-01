@@ -7,7 +7,7 @@ tags: Physics-of-AI
 categories: AI
 ---
 
-**Author: Ziming Liu (刘子鸣)，Zhiyun Zheng (郑植匀)，（Qingyu Qu）屈清宇**
+**Author: Ziming Liu (刘子鸣)，Zhiyun Zheng (郑植匀)，Qingyu Qu（屈清宇）**
 
 ---
 
