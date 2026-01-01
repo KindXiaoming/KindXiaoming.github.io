@@ -147,3 +147,16 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+{% if site.enable_math %}
+  {% unless page.pseudocode %}
+    <!-- MathJax Configuration -->
+    <script>
+      window.MathJax = {
+        tex: {
+          tags: 'ams'
+        }
+      };
+    </script>
+  {% endunless %}
+{% endif %}

@@ -1,25 +1,22 @@
 {% if site.enable_math %}
   {% unless page.pseudocode %}
-    <!-- MathJax -->
-    <script type="text/javascript">
-      window.MathJax = {
-        tex: {
-          tags: 'ams',
-        },
-      };
-    </script>
+    <!-- MathJax Script -->
     <script
-      defer
       type="text/javascript"
       id="MathJax-script"
-      src="{{ site.third_party_libraries.mathjax.url.js }}"
-      integrity="{{ site.third_party_libraries.mathjax.integrity.js }}"
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
       crossorigin="anonymous"
     ></script>
-    <script
-      defer
-      src="{{ site.third_party_libraries.polyfill.url.js }}"
-      crossorigin="anonymous"
-    ></script>
+    <script>
+      // Debug: Check if MathJax loaded
+      window.addEventListener('load', function() {
+        console.log('Page loaded. MathJax available:', typeof window.MathJax !== 'undefined');
+        if (typeof window.MathJax !== 'undefined') {
+          console.log('MathJax version:', window.MathJax.version);
+        } else {
+          console.error('MathJax failed to load!');
+        }
+      });
+    </script>
   {% endunless %}
 {% endif %}

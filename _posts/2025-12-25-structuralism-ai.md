@@ -139,3 +139,25 @@ From an application perspective, the AGI we actually need must be efficient, ada
 **In summary, Structuralism AI represents a path fundamentally different from scaling. It may be harder, but it is also more interesting, richer in opportunity, and far more promising in the long run.**
 
 **In 2026, it's time to bet/work on something different.**
+
+---
+
+## Citation
+
+If you find this article useful, please cite it as:
+
+**BibTeX:**
+
+```bibtex
+@article{liu2025structuralism-ai,
+  title={Achieving AGI Intelligently -- Structure, Not Scale},
+  author={Liu, Ziming},
+  year={2025},
+  month={December},
+  url={https://KindXiaoming.github.io/blog/2025/structuralism-ai/}
+}
+```
+
+**Text citation:**
+
+Liu, Ziming (December 2025). Achieving AGI Intelligently – Structure, Not Scale. KindXiaoming.github.io. https://KindXiaoming.github.io/blog/2025/structuralism-ai/
