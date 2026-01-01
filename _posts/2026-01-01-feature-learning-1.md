@@ -116,7 +116,7 @@ If you find this article useful, please cite it as:
 ```bibtex
 @article{liu2026feature-learning-1,
   title={Physics of Feature Learning 1 -- A Perspective from Nonlinearity},
-  author={Liu, Ziming and Zheng, Zhiyun},
+  author={Liu, Ziming and Zheng, Zhiyun and Qu, Qingyu},
   year={2026},
   month={January},
   url={https://KindXiaoming.github.io/blog/2026/feature-learning-1/}
@@ -125,6 +125,6 @@ If you find this article useful, please cite it as:
 
 **Text citation:**
 
-Liu, Ziming and Zheng, Zhiyun (January 2026). Physics of Feature Learning 1 – A Perspective from Nonlinearity. KindXiaoming.github.io. https://KindXiaoming.github.io/blog/2026/feature-learning-1/
+Liu, Ziming and Zheng, Zhiyun and Qu, Qingyu (January 2026). Physics of Feature Learning 1 – A Perspective from Nonlinearity. KindXiaoming.github.io. https://KindXiaoming.github.io/blog/2026/feature-learning-1/
 
 
