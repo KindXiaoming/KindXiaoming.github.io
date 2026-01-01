@@ -9,6 +9,12 @@ categories: AI
 
 **The “physics of AI” is still far from arriving.**  
 
+<div class="row mt-3">
+    <div class="mt-3 mt-md-0" style="width: 70%; margin: 0 auto;">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/physics-of-ai.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 If we use the Tycho–Kepler–Newton analogy, today’s AI development largely remains at the **Tycho stage**—experimentation and observation. Yet even at the level of observation, what we currently have is extremely primitive: most people focus on tuning for a handful of performance-based metrics. This stems from a fundamental difference in goals between physics and AI. Physics aims to *transform the world by understanding it*, where *understanding* itself occupies a central position. As a result, the field is very tolerant of work that provides insight even if it is (temporarily) useless. In contrast, AI aims directly to *transform the world*. The scaling laws of recent years have allowed the field to skip the “understanding” step and jump straight into transforming AI itself. In my view, this constitutes a form of **cognitive debt**—one that will inevitably have to be repaid, sooner or later, if not already.
 
 For this reason, it is premature to talk about AI’s “Newtonian mechanics.” Even at the level of basic phenomenology, we are still at a very early stage. Phenomenology can be relatively macroscopic—connecting different models, such as **emergence** and **scaling laws**—or more microscopic—focused on training dynamics, such as **grokking**, **double descent**, or the **edge of stability**. We first need to discover more phenomena; only then will we be motivated to model them and develop theories to study them.
