@@ -126,7 +126,7 @@ However, what people usually mean by interpretability refers narrowly to **inter
 
 Physics of AI differs from interpretability in all aspects:
 
-- Starts with **phenomenology**, emphasizing faithful recording of phenomena and reducing the “storytelling” aspect (see previous [blog post](/blog/2026/physics-of-ai/)).
+- Starts with **phenomenology**, emphasizing faithful recording of phenomena and reducing the “storytelling” aspect (see previous [blog post](/blog/2025/physics-of-ai/)).
 - Is **not mathematics** (as discussed above). But we can adopt mathematical tools when they are useful.
 - Characterizes phenomena at **multiple levels**, although I personally perfer startting from smallest "toy" models. You might have noticed that my recent technical blogs all study very simple models. The toy models already demonstrate very rich phenomena and I believe that the phenomena in toy models can transform (although maybe not directly transfer) to phenomena in larger models.
 - Gradually builds a **methodology** to describe the connections between phenomena across levels.
