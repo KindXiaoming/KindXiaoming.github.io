@@ -60,7 +60,7 @@ Specifically, we compute the L1 distances for  $$W_1, W_2, W_3, b_1, b_2, b_3$$.
 
 ---
 
-### Normal training ($$lambda = 0$$)
+### Normal training ($$\lambda = 0$$)
 
 <div class="row mt-3">
     <div class="mt-3 mt-md-0" style="width: 70%; margin: 0 auto;">
