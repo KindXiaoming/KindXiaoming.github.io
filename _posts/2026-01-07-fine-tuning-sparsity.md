@@ -93,7 +93,7 @@ We find that only $$W_2$$ has a significantly non-zero update, while the updates
 - Fine-tuning with sparse updates can serve as an **interpretability tool**—revealing layer-wise similarity between two datasets.  
   Given a model pretrained on dataset A and fine-tuned on dataset B with sparse updates, it would be interesting to see which layers undergo large updates and which remain nearly unchanged.
 
-- L1 regularization could be replaced by other metrics (e.g., the **nuclear norm** to encourage low-rank structure).
+- L1 regularization could be replaced by other metrics (e.g., the **nuclear norm** to encourage low-rank structure, to accompany LORA).
 
 - Can this method be scaled up, and if so, how?
 
