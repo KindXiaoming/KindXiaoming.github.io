@@ -76,6 +76,15 @@ Left: Q/K also appear very sticky during the loss plateau, which may indicate th
 Right: when all parameters are scaled up, Q/K become less sticky. Another observation that differs from the low-dimensional case is that when the loss decreases, the rank also decreases; when the loss plateaus, the rank increases; and when the loss decreases again, the rank decreases accordingly. The picture is that when the model is very clear about which features are useful, it aggressively exploits (grows) those features while (relatively) suppressing others, leading to a decrease in rank. When the loss reaches a plateau, the model explores which new features should grow, leading to an increase in rank. Once a useful new feature emerges, the model again exploits it, causing the rank to decrease.
 
 ---
+## Test on large models
+The sticky plateau phenomenon predicts a loss plateau at $${\rm Log}(V/2)$$, about 0.3 nats below $${\rm Log}(V)$$. To the best of my knowledge, this plateau has never been observed in LLMs, maybe due to
+* learning rate warmup has already nicely handled this problem
+* we did not zoom in enough to see the plateau
+* the sticky plateau is simply less relevant for large models
+
+Either way, no matter if the sticky plateua is relevant for LLMs, we shoud better understand/control representation/rank collapses and the percolation phase transition.
+
+---
 
 ## Code
 
