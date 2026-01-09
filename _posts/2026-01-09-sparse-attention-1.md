@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sparse attention 1 -- sticky plateau and rank collapse
-date: 2026-01-08
+date: 2026-01-09
 description: 
 tags: Physics-of-AI
 categories: AI
