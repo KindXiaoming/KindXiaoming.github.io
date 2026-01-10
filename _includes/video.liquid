@@ -50,7 +50,10 @@
       {% if include.poster %}
         poster="{{ include.poster }}"
       {% endif %}
-    />
+      preload="metadata"
+    >
+      Your browser does not support the video tag.
+    </video>
 
   {% else %}
     <iframe
