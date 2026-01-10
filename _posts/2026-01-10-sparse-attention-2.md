@@ -118,6 +118,11 @@ With vocabulary size $$V$$, the best achievable perplexity is thus $$\frac{C-2}{
 This suggests that for long sequences, an attention layer without positional embeddings cannot reliably select a specific previous token. Positional embeddings are therefore necessary to implement, for example, a previous-token head. That said, the discovered strategy of *unattending the current token* is itself an interesting and nontrivial phenomenon.
 
 ---
+## Acknowledgement
+
+Kaiyue Wen suggests that the sticky plateau might be due to the fact that Sub-n-grams are near-stationary Points ([paper](https://arxiv.org/pdf/2508.12837v1)).
+
+---
 
 ## Code
 
