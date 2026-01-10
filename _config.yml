@@ -196,6 +196,9 @@ latest_posts:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# Show future-dated posts
+future: true
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge

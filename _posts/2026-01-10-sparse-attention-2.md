@@ -105,7 +105,7 @@ This means that the model attends more strongly to the previous token than to th
 
 ## Longer context length
 
-The attention layer has discovered a way to *unattend* the current token, but it still cannot distinguish among earlier tokens due to permutation equivariance in the absence of positional embeddings. As a result, the model can do no better than guessing: for context length $$C$$, it effectively selects one token uniformly at random from the first $$C-1$$ tokens, with probability $$\frac{1}{C-1}$$ of choosing any particular one. The probability of guessing the correct token is therefore $$\frac{C-2}{C-1}$$.
+The attention layer has discovered a way to *unattend* the current token, but it still cannot distinguish among earlier tokens due to permutation equivariance in the absence of positional embeddings. As a result, the model can do no better than guessing: for context length $$C$$, it effectively selects one token uniformly at random from the first $$C-1$$ tokens, with probability $$\frac{1}{C-1}$$ of choosing any particular one. The probability of guessing the wrong token is therefore $$\frac{C-2}{C-1}$$.
 
 With vocabulary size $$V$$, the best achievable perplexity is thus $$\frac{C-2}{C-1} V$$, which is better than pure random guessing $$V$$. We verify empirically below:
 
