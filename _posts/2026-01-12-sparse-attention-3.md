@@ -87,7 +87,7 @@ This may be explained by the increasingly improved geometry of the embeddings (a
 
 ## Questions / Ideas
 * Our results demonstrate the ineffectiveness of attention in extracting similar content in this setting.
-* One possible fix is to replace the inner product of Q/K with the Euclidean distance between Q and K. Ideally, a 1D embedding would already be sufficient if the kernel computes Euclidean distances and weighs probabilities inversely proportional to distance (similar to [harmonic loss](https://arxiv.org/abs/2502.01628v1)). However, the innner-product similarity probably produces the inefficiency.
+* One possible fix is to replace the inner product of Q/K with the Euclidean distance between Q and K. Ideally, a 1D embedding would already be sufficient if the kernel computes Euclidean distances and weighs probabilities inversely proportional to distance (similar to [harmonic loss](https://arxiv.org/abs/2502.01628v1)). The innner-product in attention  probably produces the inefficiency, and we should try other distance measures.
 
 ---
 
