@@ -13,7 +13,7 @@ categories: AI
 
 ## Motivation
 
-In [Sparse-attention-1](/blog/2026/sparse-attention-1/), we showed that a single-layer attention model (without positional embeddings) can learn to copy the **current** token. In [Sparse-attention-2](/blog/2026/sparse-attention-2/), we showed that the same model is unable to extract a specific previous token based on *position*, e.g., the last token. But what about extracting a previous token based on *content* (token embeddings)? This is a more natural task, because it is precisely what attention is designed to do—attend to similar content.
+In [Sparse-attention-1](/blog/2026/sparse-attention-1/), we showed that a single-layer attention model (without positional embeddings) can learn to copy the **current** token. In [Sparse-attention-2](/blog/2026/sparse-attention-2/), we showed that the same model is unable to extract a specific previous token based on *position*, e.g., the last token. But what about extracting a previous token based on *content* (semantic meaning)? This is a more natural task, because it is precisely what attention is designed to do—attend to similar content.
 
 As we show below, somewhat surprisingly, a single attention layer is very inefficient at performing this extraction task.
 
@@ -55,7 +55,7 @@ By visualizing the learned embeddings, we find that they exhibit a continuous st
 
 ## Dependence on vocab size $$V$$
 
-The existence of structure may explain why the perplexity can fall slightly below $$V/2$$: some structure is learned and leveraged to reduce the loss. However, the model largely becomes confused (similar to what we observed in the [previous blog](/blog/2026/sparse-attention-2/)) and effectively guesses a random token from the previous context. This leads to a perplexity of $$\frac{C-2}{C-1}V$$, which qualitatively (though not quantitatively) matches the experimental results:
+The existence of structure may explain why the perplexity can fall slightly below $$V/2$$: the continuous geometric structure is partially learned and leveraged to reduce the loss. However, the model largely becomes confused (similar to what we observed in the [previous blog](/blog/2026/sparse-attention-2/)) and effectively guesses a random token from the previous context. This leads to a perplexity of $$\frac{C-2}{C-1}V$$, which qualitatively (though not quantitatively) matches the experimental results:
 
 <div class="row mt-3">
     <div class="mt-3 mt-md-0" style="width: 80%; margin: 0 auto;">
@@ -87,7 +87,7 @@ This may be explained by the increasingly improved geometry of the embeddings (a
 
 ## Questions / Ideas
 * Our results demonstrate the ineffectiveness of attention in extracting similar content in this setting.
-* One possible fix is to replace the inner product of Q/K with the Euclidean distance between Q and K. Ideally, a 1D embedding would already be sufficient if the kernel computes Euclidean distances and weighs probabilities inversely proportional to distance (similar to [harmonic loss](https://arxiv.org/abs/2502.01628v1)).
+* One possible fix is to replace the inner product of Q/K with the Euclidean distance between Q and K. Ideally, a 1D embedding would already be sufficient if the kernel computes Euclidean distances and weighs probabilities inversely proportional to distance (similar to [harmonic loss](https://arxiv.org/abs/2502.01628v1)). However, the innner-product similarity probably produces the inefficiency.
 
 ---
 
