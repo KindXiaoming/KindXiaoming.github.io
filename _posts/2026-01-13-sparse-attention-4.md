@@ -96,7 +96,12 @@ However, because the learning rate is too large, the token embeddings fluctuate 
     </div>
 </div>
 
-Note that the tokens in this task have no semantic meaning. The reason they form a circle is simply maximal distinguishability, and their ordering is random.
+Note that the tokens in this task have no semantic meaning. The reason they form a circle is simply maximal distinguishability, and their ordering is random. The loss spike corresponds to jumping from one order to another order. 
+
+---
+
+## Learning rate decay
+The observation above suggests a possible reason for why **learning rate decay** is needed. When two token embeddings are very close to each other, the learning rate should be small enough so that (i) swampping cannot happen (be trapped in one basin of attraction), otherwise creating loss spikes and (ii) can converge smoothly to the bottom of the basin of attraction (maximal separation of token embeddings). In this article, all tokens have the same frequency so they form a circle due to symmetry. But for natural languages, tokens have different frequencies and so different token embeddings may have different norms, requiring different learning rates. How we can adjust learning rates based on token frequency (which can be easily known) is investigated in future posts.
 
 ---
 
