@@ -69,6 +69,8 @@ which exactly realizes the target distribution. However, when $$E$$ and $$U$$ sh
 
 In practice, the model seems to find a sufficiently good trade-off: embeddings for different tokens have similar magnitudes, yet remain clearly distinguishable. Since NanoGPT uses weight tying, we will also continue to use weight tying in what follows.
 
+2026-01-13 update: if a layernorm layer is included after the embedding layer, even if embedding and unembedding layers are tied, the best perplexity/loss can be exactly achieved with embedding dimension = 1. This suggests that maybe we should directly provide (normalized) embeddings to the last layer, so that unigram can be easily learned.
+
 ---
 
 ## Representation collapse
