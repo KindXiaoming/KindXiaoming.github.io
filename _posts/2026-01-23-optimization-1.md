@@ -21,7 +21,7 @@ Recently, a number of architectures and optimizers have emphasized the role of n
 
 Slightly less recent (last year :-) ), there are also the [Muon optimizer](https://kellerjordan.github.io/posts/muon/) and [NVIDIA’s nGPT](https://arxiv.org/abs/2410.01131v1). These examples give a sense of how popular this direction has become.
 
-On the one hand, the intuition is clear: when the step size is fixed, constraining parameters to lie on a small (but not too small) sphere allows the optimizer to make reasonable *angular* updates. On the other hand, we typically do not know the optimal scale in advance, and in some cases the optimal scale may not be very large—or may even be infinite (e.g., logistic regression on linearly separable data). As a result, we would like an optimizer that can make both effective *angular* updates and effective *radial (scale)* updates.
+On the one hand, the intuition is clear: when the step size is fixed, constraining parameters to lie on a small (but not too small) sphere allows the optimizer to make reasonable *angular* updates. On the other hand, we typically do not know the optimal scale in advance, and in some cases the optimal scale may be very large—or may even be infinite (e.g., logistic regression on linearly separable data). As a result, we would like an optimizer that can make both effective *angular* updates and effective *radial (scale)* updates.
 
 To gain insight, we start with a toy example below.
 
