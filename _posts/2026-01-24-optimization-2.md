@@ -30,7 +30,7 @@ In practice, however, we find that as long as $$s$$ is learnable, the weight par
 We numerically test the four modes discussed in the [previous blog](/blog/2026/optimization-2/) for the 1D case, with initial weight $$W_0 = -1$$ and target $$W^* = 100$$. With re-parametrization and a learnable scale, learning is much faster than in the other modes.
 
 <div class="row mt-3">
-    <div class="mt-3 mt-md-0" style="width: 50%; margin: 0 auto;">
+    <div class="mt-3 mt-md-0" style="width: 80%; margin: 0 auto;">
         {% include figure.liquid path="assets/img/blogs/optimization-2/1D_compare.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
