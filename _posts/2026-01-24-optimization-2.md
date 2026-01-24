@@ -31,7 +31,7 @@ We numerically test the four modes discussed in the [previous blog](/blog/2026/o
 
 <div class="row mt-3">
     <div class="mt-3 mt-md-0" style="width: 80%; margin: 0 auto;">
-        {% include figure.liquid path="assets/img/blogs/optimization-2/1D_compare.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/blogs/optimization-2/1D_compare_new.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
