@@ -75,7 +75,7 @@ If you find this article useful, please cite it as:
 **BibTeX:**
 
 ```bibtex
-@article{liu2026sparse-optimization-3,
+@article{liu2026optimization-3,
   title={Optimization 3 / Depth 2 -- Adding Bias After ReLU},
   author={Liu, Ziming},
   year={2026},

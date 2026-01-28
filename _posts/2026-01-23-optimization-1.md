@@ -133,7 +133,7 @@ If you find this article useful, please cite it as:
 **BibTeX:**
 
 ```bibtex
-@article{liu2026sparse-optimization-1,
+@article{liu2026optimization-1,
   title={Optimization 1 -- Norm reparametrization},
   author={Liu, Ziming},
   year={2026},

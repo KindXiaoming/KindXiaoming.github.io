@@ -106,7 +106,7 @@ If you find this article useful, please cite it as:
 **BibTeX:**
 
 ```bibtex
-@article{liu2026sparse-optimization-4,
+@article{liu2026optimization-4,
   title={Optimization 4 -- Loss Spikes},
   author={Liu, Ziming},
   year={2026},

@@ -79,7 +79,7 @@ If you find this article useful, please cite it as:
 **BibTeX:**
 
 ```bibtex
-@article{liu2026sparse-optimization-2,
+@article{liu2026optimization-2,
   title={Optimization 2 -- Elementwise scale reparametrization},
   author={Liu, Ziming},
   year={2026},
