@@ -382,6 +382,8 @@ imagemagick:
     - 480
     - 800
     - 1400
+    - 1920   # 覆盖 Retina：内容区约 930px * 2 ≈ 1860px
+    - 2560   # 覆盖大屏 / 高 DPR
   input_directories:
     - assets/img/
   input_formats:
@@ -391,7 +393,7 @@ imagemagick:
     - ".tiff"
     - ".gif"
   output_formats:
-    webp: "-quality 85"
+    webp: "-quality 90"   # 85 → 90，减少压缩带来的糊
 
 # Lazy loading images
 #   If you enable lazy loading, all images will add the loading="lazy" attribute.
