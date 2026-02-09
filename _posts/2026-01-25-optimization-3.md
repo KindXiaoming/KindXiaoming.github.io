@@ -3,7 +3,7 @@ layout: post
 title: Optimization 3 / Depth 2 -- Adding Bias After ReLU
 date: 2026-01-25
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Optimization, Depth]
 categories: AI
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Sparse attention 2 -- Unattention head, branching dynamics
 date: 2026-01-10
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Sparse-attention]
 categories: AI
 ---
 

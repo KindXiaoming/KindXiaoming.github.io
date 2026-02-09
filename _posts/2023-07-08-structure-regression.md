@@ -3,7 +3,7 @@ layout: post
 title: Symbolic Regreesion? Structure Regression!
 date: 2023-07-08
 description: 
-tags: Modularity Neural-Networks Neuroscience-for-AI
+tags: [Modularity, Science-for-AI, Structuralism]
 categories: Interpretability
 ---
 

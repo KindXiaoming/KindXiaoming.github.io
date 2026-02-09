@@ -3,7 +3,7 @@ layout: post
 title: Transformers don't learn Newton's laws? They learn Kepler's laws!
 date: 2026-02-08
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, World-model]
 categories: AI
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Philosophical thoughts on Kolmogorov-Arnold Networks
 date: 2024-05-27
 description: 
-tags: Kolmogorov-arnold-networks interpretability AI-for-Science
+tags: [KAN, interpretability, AI-for-Science]
 categories: AI
 ---
 

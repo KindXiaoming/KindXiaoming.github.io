@@ -3,7 +3,7 @@ layout: post
 title: Training dynamics of A Single ReLU Neuron
 date: 2026-01-03
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Non-linearity]
 categories: AI
 ---
 

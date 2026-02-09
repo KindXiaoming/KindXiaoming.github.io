@@ -3,7 +3,7 @@ layout: post
 title: Sparse attention 6 -- In-context Associative recall
 date: 2026-01-30
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Sparse-attention]
 categories: AI
 ---
 

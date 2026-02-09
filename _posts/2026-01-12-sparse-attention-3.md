@@ -3,7 +3,7 @@ layout: post
 title: Sparse attention 3 -- inefficiency of extracting similar content
 date: 2026-01-12
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Sparse-attention]
 categories: AI
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Achieving AGI Intelligently – Structure, Not Scale
 date: 2025-12-25
 description: 
-tags: Structuralism-AI AGI
+tags: [Structuralism, AGI, Methodology]
 categories: AI
 ---
 

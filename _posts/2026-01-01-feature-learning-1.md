@@ -3,7 +3,7 @@ layout: post
 title: Physics of Feature Learning 1 – A Perspective from Nonlinearity
 date: 2026-01-01
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Non-linearity, Feature-learning]
 categories: AI
 ---
 

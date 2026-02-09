@@ -3,7 +3,7 @@ layout: post
 title: Multi-Head Cross Entropy Loss
 date: 2026-01-06
 description: 
-tags: Physics-of-AI, New-Model
+tags: [Physics-of-AI, Science-for-AI, AGI]
 categories: AI
 ---
 

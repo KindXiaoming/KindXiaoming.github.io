@@ -3,7 +3,7 @@ layout: post
 title: Physics of AI Requires Mindset Shifts
 date: 2025-12-31
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Methodology]
 categories: AI
 ---
 

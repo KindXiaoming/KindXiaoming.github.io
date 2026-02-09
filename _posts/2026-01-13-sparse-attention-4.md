@@ -3,7 +3,7 @@ layout: post
 title: Sparse attention 4 -- previous token head
 date: 2026-01-13
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Sparse-attention]
 categories: AI
 ---
 

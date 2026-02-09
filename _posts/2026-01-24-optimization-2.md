@@ -3,7 +3,7 @@ layout: post
 title: Optimization 2 -- Elementwise Scale Reparametrization
 date: 2026-01-24
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Optimization]
 categories: AI
 ---
 

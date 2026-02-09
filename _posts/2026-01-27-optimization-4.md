@@ -3,7 +3,7 @@ layout: post
 title: Optimization 4 -- Loss Spikes
 date: 2026-01-27
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Optimization]
 categories: AI
 ---
 

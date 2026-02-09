@@ -3,7 +3,7 @@ layout: post
 title: Physics of AI – How to Begin
 date: 2026-01-02
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Methodology]
 categories: AI
 ---
 

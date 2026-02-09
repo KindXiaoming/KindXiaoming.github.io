@@ -3,7 +3,7 @@ layout: post
 title: What's the difference -- (physics of) AI, physics, math and interpretability
 date: 2026-01-05
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Methodology]
 categories: AI
 ---
 

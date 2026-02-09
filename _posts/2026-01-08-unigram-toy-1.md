@@ -3,7 +3,7 @@ layout: post
 title: Unigram toy model is surprisingly rich -- representation collapse, scaling laws, learning rate schedule
 date: 2026-01-08
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Toy-language]
 categories: AI
 ---
 

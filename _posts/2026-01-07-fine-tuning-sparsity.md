@@ -3,7 +3,7 @@ layout: post
 title: Fine-tuning with sparse updates? A toy teacher-student Setup
 date: 2026-01-07
 description: 
-tags: Physics-of-AI, New-Model
+tags: [Physics-of-AI, Science-for-AI, AGI]
 categories: AI
 ---
 

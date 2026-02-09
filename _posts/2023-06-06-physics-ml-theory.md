@@ -3,7 +3,7 @@ layout: post
 title: A Good ML Theory is Like Physics -- A Physicist's Analysis of Grokking
 date: 2023-06-16
 description:
-tags: Grokking Science-of-AI
+tags: [Grokking, Physics-of-AI]
 categories: AI
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Sparse attention 7 -- Stack of causal attention creates implicit positional embedding, and explaning "Loss in the middle" 
 date: 2026-01-31
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Sparse-attention]
 categories: AI
 ---
 

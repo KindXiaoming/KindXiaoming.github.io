@@ -3,7 +3,7 @@ layout: post
 title: Emergence of Induction Head Depends on Learning Rate Schedule
 date: 2026-01-11
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Induction-head, Learning-rate-schedule]
 categories: AI
 ---
 

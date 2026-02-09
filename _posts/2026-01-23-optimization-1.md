@@ -3,7 +3,7 @@ layout: post
 title: Optimization 1 -- Norm reparametrization
 date: 2026-01-23
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Optimization]
 categories: AI
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Representation anisotropy from nonlinear functions
 date: 2026-01-04
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Non-linearity]
 categories: AI
 ---
 

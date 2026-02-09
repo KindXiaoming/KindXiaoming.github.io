@@ -3,7 +3,7 @@ layout: post
 title: Sparse attention 5 -- Attention sink
 date: 2026-01-22
 description: 
-tags: Physics-of-AI
+tags: [Physics-of-AI, Sparse-attention]
 categories: AI
 ---
 
