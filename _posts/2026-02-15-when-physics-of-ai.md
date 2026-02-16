@@ -63,6 +63,12 @@ Physics of AI is a methodology for digging deeper. The ultimate goal aims to add
 
 We can model AI research as follows: given a **configuration** (architecture, hyperparameters, etc.), training produces a network with measurable **metrics**. The forward model of AI research is thus a mapping from configuration space to metric space. As we move up levels, we gain increasingly rich knowledge about this mapping.
 
+<div class="row mt-3">
+    <div class="mt-3 mt-md-0" style="width: 60%; margin: 0 auto;">
+        {% include figure.liquid path="assets/img/blogs/when-physics-of-ai/physics-of-ai-five-levels.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 * **Level 1:** Measure only performance metrics; tune hyperparameters blindly. (Very small metric space.)
 * **Level 2:** Measure additional metrics (e.g., weight or representation statistics), but without understanding structure. (Expanded metric space, but only isolated experiments.)
 * **Level 3:** Conduct controlled experiments or toy models to understand how configuration affects metrics. (Understanding the structure of the mapping.)
