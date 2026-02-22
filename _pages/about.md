@@ -16,6 +16,8 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
+I'm looking to hire two PhD students who will start in Fall 2027 at Tsinghua University.
+
 Hi! I'm **Ziming Liu** (刘子鸣). I will join the [College of AI](https://collegeai.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) as a tenure-track Assistant Professor, starting 2026 Fall. I did my postdoc in AI + Neuroscience at Stanford with Andreas Tolias. I did my PhD in AI + Physics at MIT with Max Tegmark. Before that, I obtained my B.S. in physics from Peking University in 2020. [Get my CV here](/assets/pdf/Ziming_resume.pdf).
 
 I'm currently devoted to two related things:
