@@ -43,7 +43,7 @@ Moreover, I am not a fan of number tokenization, based on insights from our rece
 
 Therefore:
 
-* I did not use any tokenization — numbers are directly treated as inputs and outputs.
+* I did not use any tokenization — digits are directly treated as inputs and outputs.
 * MSE loss does not work well, but a hybrid loss — **Gaussian cross-entropy loss** — does. It behaves like MSE when the inverse temperature $$\beta$$ is small, and like cross-entropy when $$\beta$$ is large (using Euclidean distance as the distance metric rather than inner product).
 
 ---
