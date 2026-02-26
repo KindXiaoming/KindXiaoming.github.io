@@ -23,17 +23,17 @@ Recently, I have been thinking about automating blog generation. While writing c
 
 When preparing a blog post, I typically decompose the workflow into four steps:
 
-* 1. Write the code  
-* 2. Compute various observables  
-* 3. Visualize the observables, inspect them manually, and identify interesting phenomena  
-* 4. Write the blog post  
+* Write the training code  
+* Compute various observables  
+* Visualize the observables, inspect them manually, and identify interesting phenomena  
+* Write the blog post  
 
 Here is how I currently use AI in this pipeline:
 
-* 1. I use coding agents extensively. They perform quite well.  
-* 2. I use agents to write code for computing observables, but when it comes to *defining* meaningful observables, agents sometimes make mistakes.  
-* 3. I do not use agents at all for interpretation — I rely entirely on manual inspection.  
-* 4. I write the blog myself and use AI only for polishing at the end.  
+* I use coding agents extensively. They perform quite well.  
+* I use agents to write code for computing observables, but when it comes to *defining* meaningful observables, agents sometimes make mistakes.  
+* I do not use agents at all for interpretation — I rely entirely on manual inspection.  
+* I write the blog myself and use AI only for polishing at the end.  
 
 When I shared my idea of automating blog generation with friends, they all suggested: *Why not use a research agent?* That’s a good question.
 
@@ -94,7 +94,7 @@ If you find this article useful, please cite it as:
 
 ```bibtex
 @article{liu2026research-agent,
-  title={How to automate my blog posts with research agents?},
+  title={Research agents should target knowledge graphs, not papers},
   author={Liu, Ziming},
   year={2026},
   month={February},
