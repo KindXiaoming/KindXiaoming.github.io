@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research agent 1 -- Reproducing 2026-01-01 blog (physics of feature learning)
-date: 2026-02-25
+date: 2026-02-28
 description: 
 tags: [Physics-of-AI, Research-agent]
 categories: AI
