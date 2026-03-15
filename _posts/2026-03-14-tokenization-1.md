@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tokenization 1 -- Factorized tokenization
-date: 2026-03-13
+date: 2026-03-14
 description: 
 tags: [Physics-of-AI, Methodology, Tokenization]
 categories: AI
@@ -62,7 +62,7 @@ $$[k_1][k_2]\cdots[k_n] \to [1-k_1][1-k_2]\cdots[1-k_n]$$
 
 This task is also naturally described in factorized tokenization:
 
-$$[a_1]\cdots [a_n], [b_1]\cdot [b_n] \to [(a_1+b_1)\%2]\cdots [(a_n+b_n)\%2]$$
+$$[a_1]\cdots [a_n], [b_1]\cdots [b_n] \to [(a_1+b_1)\%2]\cdots [(a_n+b_n)\%2]$$
 
 **Task 3: Modular addition**
 
