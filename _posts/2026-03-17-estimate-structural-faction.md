@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimating structural information fraction $$p_s$$ of your dataset
+title: Estimating structural information fraction of your dataset
 date: 2026-03-17
 description: 
 tags: [Physics-of-AI, Methodology, Data, Memory]
