@@ -105,6 +105,11 @@ Results for n_blocks = 4, 10, 30 are compared below:
 * Confession: I initialize the learnable query vectors to zero, which may enforce the uniform bias I anticipated. Initializing the query vectors to non-zero values may reduce this uniform bias.
 * Ultimately, the scientific argument should not be "Attention residual works better than standard residual" or the other way around. Instead, we should embrace the No-Free-Lunch perspective and clarify under which conditions or tasks one method outperforms the other. Going further, Kimi's positive results on natural language tasks may suggest that natural language is more structured than random data. In the end, the biggest "dark matter" in AI is data (how it is generated and how the world is simulated), not the models themselves.
 
+---
+
+## Follow up
+I have a follow-up discussion in [attention-residual-2](/blog/2026/attention-residual-2/).
+
 
 ---
 ## Code
