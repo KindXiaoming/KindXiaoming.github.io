@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ziming Liu (刘子鸣)</p>
-    <p>lzmsldmjxm@gmail.com</p>
+    <p>lzmsldmjxm@{gmail, 163}.com</p>
 
 social: true # includes social icons at the bottom of the page
 news: false # includes a list of news items
