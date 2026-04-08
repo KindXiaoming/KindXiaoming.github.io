@@ -3,7 +3,7 @@ layout: post
 title: When does Kimi's "Attention Residuals" work?
 date: 2026-03-16
 description: 
-tags: [Physics-of-AI, Methodology, Optimization, Depth, Data]
+tags: [Physics-of-AI, Optimization, Depth, Data]
 categories: AI
 ---
 

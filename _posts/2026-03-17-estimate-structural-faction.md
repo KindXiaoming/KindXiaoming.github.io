@@ -3,7 +3,7 @@ layout: post
 title: Estimating structural information fraction of your dataset
 date: 2026-03-17
 description: 
-tags: [Physics-of-AI, Methodology, Data, Memory]
+tags: [Physics-of-AI, Data, Memory]
 categories: AI
 ---
 

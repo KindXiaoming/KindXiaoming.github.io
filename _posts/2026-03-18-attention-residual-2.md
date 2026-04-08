@@ -3,7 +3,7 @@ layout: post
 title: Attention residual 2
 date: 2026-03-18
 description: 
-tags: [Physics-of-AI, Methodology, Optimization, Depth, Data]
+tags: [Physics-of-AI, Optimization, Depth, Data]
 categories: AI
 ---
 

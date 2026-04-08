@@ -3,7 +3,7 @@ layout: post
 title: Tokenization 1 -- Factorized tokenization
 date: 2026-03-14
 description: 
-tags: [Physics-of-AI, Methodology, Tokenization]
+tags: [Physics-of-AI, Tokenization]
 categories: AI
 ---
 
