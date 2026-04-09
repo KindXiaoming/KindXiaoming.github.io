@@ -68,7 +68,7 @@ If you find this article useful, please cite it as:
   title={Understanding cardinality (as in ResNext) from representation collapse},
   author={Liu, Ziming},
   year={2026},
-  month={March},
+  month={April},
   url={https://KindXiaoming.github.io/blog/2026/cardinality/}
 }
 ```
