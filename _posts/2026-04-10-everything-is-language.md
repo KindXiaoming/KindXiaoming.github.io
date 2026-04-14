@@ -37,7 +37,7 @@ Natural language happens to lie in a particularly “blessed” region: (1) it h
 
 Vision is a more primitive language than natural language. More primitive languages tend to have higher redundancy. Because they are less compressed by nature, they rely more on models to perform compression and abstraction. This is why representation learning is both crucial and challenging in computer vision.
 
-Beyond vision, robotic sensor data and raw observations in physics (e.g., planetary position records collected by :contentReference[oaicite:0]{index=0}) are also highly primitive forms of data. These data may implicitly contain symbolic physical laws, but current AI models still struggle to extract them due to insufficient compression capabilities.
+Beyond vision, robotic sensor data and raw observations in physics (e.g., planetary position records collected by Tycho) are also highly primitive forms of data. These data may implicitly contain symbolic physical laws, but current AI models still struggle to extract them due to insufficient compression capabilities.
 
 Some argue that the intelligence of large language models (LLMs) comes from their ability to compress. I partially agree—but it is important to note that much of this compression comes from the data itself, not just the model. For raw data that has not been pre-compressed, the burden of compression falls heavily on the model, demanding much stronger representation learning capabilities.
 
