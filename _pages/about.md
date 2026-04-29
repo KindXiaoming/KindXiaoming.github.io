@@ -9,14 +9,15 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ziming Liu (刘子鸣)</p>
-    <p>lzmsldmjxm@{gmail, 163}.com</p>
+    <p>zmliu@tsinghua.edu.cn</p>
+    <p>lzmsldmjxm@gmail.com</p>
 
 social: true # includes social icons at the bottom of the page
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hi! I'm **Ziming Liu** (刘子鸣). I will join the [College of AI](https://collegeai.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) as a tenure-track Assistant Professor, starting 2026 Fall. I'm looking to hire two PhD students who will start in Fall 2027 at Tsinghua University.
+Hi! I'm **Ziming Liu** (刘子鸣). I am a tenure-track Assistant Professor in [College of AI](https://collegeai.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 My lab is called **LIU** lab, which stands for **L**earning, **I**ntelligence, and **U**niverse. 
 
