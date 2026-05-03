@@ -69,3 +69,4 @@ Sweep: noise level 0.0, 0.15, 0.3
 ## Code
 
 Code can be downloaded [here](/assets/img/blogs/gaussian-blob/base_experiment.py).
+<span style="color: red;">(still some bug with the generated code)</span>
