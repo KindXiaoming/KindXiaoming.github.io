@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How does memorization affect $$\ell_2$$?
+title: "How does memorization affect $$\\ell_2$$?"
 date: 2026-05-05
 description:
 tags: [ComfyResearch, Workflow]
-cat
+categories:
 ---
 
 Black: Agent generated; <span style="color: red;">Red: Added by human</span>
