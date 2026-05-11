@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: rosegarden.png
+  image: cai_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ziming Liu (刘子鸣)</p>
