@@ -1,0 +1,42 @@
+# Fast local preview for the homepage only.
+# Usage:
+#   docker compose -f docker-compose-homepage.yml up
+#
+# Skips blog posts, LSI, and responsive-image generation so about-page
+# edits rebuild quickly.
+
+lsi: false
+
+related_blog_posts:
+  enabled: false
+
+imagemagick:
+  enabled: false
+
+exclude:
+  - bin/
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
+  - docker-compose.yml
+  - docker-compose-slim.yml
+  - docker-compose-homepage.yml
+  - FAQ.md
+  - Gemfile
+  - Gemfile.lock
+  - INSTALL.md
+  - LICENSE
+  - lighthouse_results/
+  - package.json
+  - package-lock.json
+  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _posts/
+  - _posts_lib/
+  - assets/jupyter/
+  - assets/img/blogs/
+  - purgecss.config.js
+  - README.md
+  - readme_preview/
+  - vendor
+  - _config_homepage.yml

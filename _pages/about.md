@@ -37,3 +37,7 @@ I'm broadly interested in the intersection of AI and Science:
 
 <!--To break disciplinary boundaries, I am decicated to bring young talents into this exciting field of AI + Science, as well as bring together AI researchers and domain scientists. I'm excited to teach courses on AI + Science when opportunities arise. Take a look at the syllabus for [Science of AI](/assets/pdf/Science_of_AI_Syllabus.pdf) and [AI for Science](/assets/pdf/AI_for_Science_Syllabus.pdf) that I'm designing and let me know if you would be interested in signup if such courses exist!-->
 
+<blockquote class="block-tip" style="font-size: 0.9rem;">
+  <p><strong>To interested undergraduate students:</strong> If you would like to apply for an internship, please attach your CV/resume and your transcript.</p>
+</blockquote>
+
