@@ -1,0 +1,17 @@
+version: "3"
+# Fast homepage-only preview (skips _posts and LSI).
+#   docker compose -f docker-compose-homepage.yml up
+services:
+  jekyll:
+    image: amirpourmand/al-folio:latest
+    ports:
+      - 8080:8080
+      - 35729:35729
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
+    command:
+      - bash
+      - -c
+      - rm -f Gemfile.lock && exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --force_polling --config _config.yml,_config_homepage.yml
